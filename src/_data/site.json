@@ -1,11 +1,11 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@andybelldesign",
-  "authorName": "Andy Bell",
+  "name": "That's My JAM...stack",
+  "shortDesc": "That's My JAMstack! is an interview podcast outlining various developers' methods of utilizing the JAMstack",
+  "url": "https://thatsmyjamstack",
+  "authorEmail": "bryan@codecontemporary.com",
+  "authorHandle": "@brob",
+  "authorName": "Bryan Robinsno",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5
 }
