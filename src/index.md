@@ -1,6 +1,7 @@
 ---
 layout: home
 title: A Podcast examining the best of the JAMstack community
+metaTitle: A Podcast examining the best of the JAMstack community
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
