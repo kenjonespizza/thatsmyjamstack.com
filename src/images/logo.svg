@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1320" height="801" viewBox="0 0 1320 801">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1320" height="801"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(176 38)" fill="none" stroke="#000" stroke-width="35">
+      <rect width="992" height="760" stroke="none"/>
+      <rect x="17.5" y="17.5" width="957" height="725" fill="none"/>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(-353.648 -182.122)">
+      <text id="JAM" transform="translate(420.764 765.729)" fill="#fff" stroke="#fff" stroke-linejoin="bevel" stroke-width="41" font-size="504" font-family="RockSalt-Regular, Rock Salt"><tspan x="0" y="0">JAM</tspan></text>
+      <text id="JAM-2" data-name="JAM" transform="translate(420.764 765.729)" fill="#f25858" font-size="504" font-family="RockSalt-Regular, Rock Salt"><tspan x="0" y="0">JAM</tspan></text>
+    </g>
+    <text id="That_s_My_" data-name="That’s  My " transform="translate(238 224)" font-size="120" font-family="Staatliches-Regular, Staatliches" letter-spacing="0.01em"><tspan x="0" y="0" xml:space="preserve">That’s  My </tspan></text>
+    <text id="_stack" data-name="… stack" transform="translate(1106 734)" font-size="120" font-family="Staatliches-Regular, Staatliches"><tspan x="-344.88" y="0">… stack</tspan></text>
+  </g>
+</svg>
