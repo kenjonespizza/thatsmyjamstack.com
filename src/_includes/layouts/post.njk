@@ -17,6 +17,11 @@
     <article class="[ post ] [ h-entry ]">
       {% include "partials/components/intro.njk" %}
       <div class="[ post__body ] [ inner-wrapper ] [ pad-top-900 {{ 'pad-bottom-900' if not site.enableThirdPartyComments }} text-500 ] [ sf-flow ] [ e-content ]">
+        {% if audioFile %}
+          <audio id="player" controls>
+              <source src="{{ audioFile }}" type="audio/mp3" />
+          </audio>
+        {% endif %}
         {{ content | safe }}
       </div>
       {% if site.enableThirdPartyComments %}
