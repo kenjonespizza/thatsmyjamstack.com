@@ -12,13 +12,13 @@ description: Hello World, my name is Bryan Robinson and I love love, love the JA
 ### Bryan Robinson  0:02
 Hello World, my name is Bryan Robinson and I love love, love the JAMstack. I've always enjoyed working on static sites, quick for users, they're quick to build. And as it turns out, they're not that static anymore. I'm on a quest to find more gems, hackers, and they get their stories. That's why I've created That's My JAM...stack. This podcast is all about the passions of the tech community, like Andy Bell, talking about progressive enhancement.
 
-### Andy Bell  0:28
+### Andy Bell Quote 0:28
 Progressive enhancement is my thing, so whatever you use, as long as what gets delivered to the front end this HTML, functional HTML by default, so if nothing else arrives down the pipe, you still have a usable website and its acceptable and accessible then it's all good. You could, whatever you want. If you want to use PHP or Node, I don't really care as long as if the only thing that arrives is HTML,  it works.
 
 ### Bryan Robinson  1:00
 I'll be seeking out amazing developers and designers of all walks of life, talk to me about what they do with the jam stack and why they love this movement on the web. 
 
-### Raymond Camden  1:12
+### Raymond Camden Quote 1:12
 I played with it and like a light bulb went off. And I was thinking about all the sites I built a cold fusion that were dynamic talking to the sql server and like the data was changing, like once a year. And I'm like, you know what, I don't need that anymore. And again, like light bulb moment, realizing that it's not 100% solution, but but like a lot of what I built in the last 10 years, this would have covered a good part of them.
 
 ### Bryan Robinson  1:39  
