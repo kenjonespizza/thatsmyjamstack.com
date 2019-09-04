@@ -5,6 +5,7 @@ tags:
   - episode
 audioFile: https://pinecast.com/listen/f53e5d1b-fa75-4a55-9a5d-75d1efbfca93.mp3
 description: Today we have an awesome guest. He's a web designer and developer. You may know him from his CSS newsletter, Piccalilli, his awesome 11ty the starter theme Hylia, his friendly browser checker, mybrowser. FYI, or just his amazing hot takes on Twitter. Let's go ahead and welcome to the show Andy Bell.
+socialImage: /images/andy-bell.png
 ---
 
 ## Quick show notes
