@@ -33,4 +33,7 @@
   <meta name="twitter:image" content="{{ site.url }}{{ socialImage }}" />
   <meta property="og:image:alt" content="Page image for {{ site.name }}" />
   <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
+  {% if pageType == 'Post' %}
+    <meta name="twitter:card" content="summary_large_image">
+  {% endif %}
 {% endif %}
