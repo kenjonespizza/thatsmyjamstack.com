@@ -5,7 +5,7 @@ tags:
   - episode
 audioFile: https://pinecast.com/listen/e767c87f-7512-4c0d-927b-1fb24de5aa54.mp3
 description: In today's episode, I’m joined by Andrew Sprouse. Andrew is a cofounder and CTO of the amazing JAMstack company TakeShape. 
-socialImage: /images/laurie-barth.png
+socialImage: /images/andrew-sprouse.png
 ---
 
 ## Quick show notes
