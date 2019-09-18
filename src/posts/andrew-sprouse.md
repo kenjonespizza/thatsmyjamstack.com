@@ -26,7 +26,7 @@ socialImage: /images/laurie-barth.png
 ## Transcript
 
 ### Bryan Robinson 0:00
-Hello everyone! Welcome to another episode of the That’s my JAM stack podcast where we profile amazing people working in this new methodology. In this podcast, we dare to ask the age-old question “What’s your jam in the JAMstack?!” I’m your host Bryan Robinson and today I’m joined by Andrew Sprouse. Andrew is a cofounder and CTO of the amazing JAMstack company TakeShape. 
+Hello everyone! Welcome to another episode of the That’s my JAMstack podcast where we profile amazing people working in this new methodology. In this podcast, we dare to ask the age-old question “What’s your jam in the JAMstack?!” I’m your host Bryan Robinson and today I’m joined by Andrew Sprouse. Andrew is a cofounder and CTO of the amazing JAMstack company TakeShape. 
 
 ### Bryan Robinson  0:59  
 So, Andrew, thanks for coming on the show today. Can you give our listeners a little background, who you are what you do for work and for fun?
