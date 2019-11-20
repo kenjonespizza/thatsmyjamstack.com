@@ -13,7 +13,6 @@ socialImage: /images/brian-rinaldi.png
 * Our Guest: [Brian Rinaldi](https://remotesynthesis.com/)
 * What he'd like for you to see: [Flashback Conference](https://flashback.dev)
 * His JAMstack Jams: [Stackbit](https://stackbit.com/) | [Netlify](https://netlify.com) | [Hugo](https://gohugo.io/)
-* His musical Jam: [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH)
 
 ## Other Technology Mentioned
 * [Jekyll](http://jekyllrb.com/)
