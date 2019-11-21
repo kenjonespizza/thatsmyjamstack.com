@@ -1,3 +1,16 @@
 {
-  "items": []
+  "items": [
+    {
+      "text": "Archive",
+      "url": "/archive/"
+    },
+    {
+      "text": "About",
+      "url": "/about/"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
+    }
+  ]
 }
