@@ -1,0 +1,23 @@
+input, textarea {
+    padding: .5rem;
+    border: 1px solid var(--color-stroke);
+    font-size: 1.1rem;
+}
+.form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+    &__label {
+        input, textarea {
+            width: 100%;
+            
+        }
+    }
+    &__full {
+        grid-column: span 2;
+    }
+    .button {
+        grid-column: -2;
+        font-size: 1.1rem;
+    }
+}
