@@ -6,7 +6,7 @@ permalink: "/contact/"
 Want to be on the show? Want to just let me know that you enjoy the show? Want to say hi? Shoot me a message below!
 
 ## Say hi or tell me you want to be on the show
-<form class="form" netlify name="Contact" action="/thanks/">
+<form class="form" netlify name="Contact" action="/thank-you/">
     <label class="form__label" for="name">Name
         <input type="text" name="name">
     </label>
