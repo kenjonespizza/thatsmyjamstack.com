@@ -16,6 +16,5 @@ Want to be on the show? Want to just let me know that you enjoy the show? Want t
     <label class="form__label form__full" for="comment">Comment or details about why you're reaching out
         <textarea name="comment" rows="15"></textarea>
     </label>
-    <button class="button" type="submit" value="Submit">Send now</button>
-
+    <input type="submit" value="Send Now" class="button">
 </form>
