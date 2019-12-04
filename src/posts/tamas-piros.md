@@ -5,7 +5,7 @@ tags:
   - episode
 audioFile: https://pinecast.com/listen/72fa88c7-2f10-428e-99ac-01ab18245218.mp3
 description: In today's episode, we're talking to a Cloudinary developer evangelist and awesome technical trainer, who just started jamstack.training Tamas Piros
-socialImage: /images/brian-rinaldi.png
+socialImage: /images/tamas-piros.png
 ---
 
 ## Quick show notes
