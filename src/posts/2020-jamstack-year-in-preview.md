@@ -61,7 +61,7 @@ But yeah, I think for me, just the community is going to keep growing, you see m
 ### Bryan Robinson  7:08  
 Now we've got Brian Rinaldi, a developer advocate for Stackbit that I chatted with in our ninth episode.
 
-### Tamas Piros  7:14  
+### Brian Rinaldi  7:14  
 What I'm looking forward to most for JAMstack in 2020 is moving from a curious niche in web development to becoming one of the primary ways developers architect websites. It felt as though 2019 was a turning point for JAMstack. Tools gained adoption, new companies developed in the ecosystem. And people started to really notice it. For example, I had a conversation with a well known company about a year ago that thought it was a fad unworthy of their attention. And that same very same company this year, told me they're ready to invest in it. So I think you know, if you think about the technology adoption curve 2020 will be the year we cross from the early adopters to an early majority and see that adoption increased dramatically. 
 
 ### Bryan Robinson  7:59  
