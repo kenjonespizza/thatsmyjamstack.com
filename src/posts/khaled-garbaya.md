@@ -5,7 +5,7 @@ tags:
   - episode
 audioFile: https://pinecast.com/listen/3060e1dc-1e39-409b-88d3-960c154ffa0f.mp3
 description: This week I'm excited to have on the show the amazing Khaled Garbaya. Khaled is an engineering manager at Contentful and runs an amazing JAMstack newsletter.
-socialImage: /images/jason-lengstorf.png
+socialImage: /images/khaled-garbaya.png
 ---
 
 ## Quick show notes
