@@ -1,6 +1,6 @@
 ---
 title: Denis Kostrzewa on JAMstack-first agencies, finding your stack, talking with clients and more
-date: '2020-02-11'
+date: '2020-02-18'
 tags:
   - episode
 audioFile: https://pinecast.com/listen/efcfc51f-7ec5-4699-9d22-e650516e042e.mp3
