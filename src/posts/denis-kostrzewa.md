@@ -17,7 +17,7 @@ socialImage: /images/denis-kostrzewa.png
 
 
 ## Our sponsor this week: [TakeShape](https://takeshape.io/thatsmyjamstack)
-
+<!-- 
 ## Transcript 
 ### Bryan Robinson  0:02  
 Hello everyone, welcome back to another episode of that's my JAMstack the podcast where we ask that most important of questions, what's your jam in the JAMstack? On this week's episode, we're hearing insights from the world of JAMstack agencies with Denis Kostrzewa, the CEO and co founder of the JAMstack-first agency Bejamas. Before we dive into those insights, I want to welcome back our sponsor take shape. If you're interested in their content platform, be sure to stick around after the interview to hear more, or head on over to take shape.io slash that's my JAMstack for more information. Alright guys, well, thanks for being on the show today and taking the time to chat with us.
@@ -166,7 +166,7 @@ Yeah. Thanks, Bryan. And hope to talk to you again soon.
 ### Bryan Robinson  21:45  
 Thanks again to Denis and thanks to all the listeners out there in the JAMstack development world. If you're enjoying this show, be sure to star heart favorite thumbs up or whatever you can think of on your podcast app of choice. And now it's sponsored time back again this week is take shape. take shape is a content platform tailor made for the JAMstack. They've got a super intuitive CMS, a clean graph qL API with an awesome API Explorer, a simple static site generator and a new mesh product that allows you to combine multiple API's and merge them all into a single graph qL API with that awesome Explorer, is definitely worth checking out by heading over to take shape.io slash that's my JAMstack. Until next week, keep doing amazing things on the web and keep things gym.
 
-Transcribed by https://otter.ai
+Transcribed by https://otter.ai -->
 
 
 Intro/outtro music by [bensound.com](https://bensound.com)
