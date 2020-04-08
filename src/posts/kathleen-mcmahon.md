@@ -3,7 +3,7 @@ title: Kathleen McMahon on writing docs, helping others learn and design systems
 date: '2020-04-07'
 tags:
   - episode
-audioFile: https://pinecast.com/listen/d58161f1-1528-4fe0-98af-a2f2fdf7ed34.mp3
+audioFile: https://pinecast.com/listen/ade07c4d-092c-4bb9-8a71-ceab6281d1a0.mp3
 description: On today’s episode we have the amazing Kathleen McMahon. Kathleen is a developer and design systems guru.
 socialImage: /images/kathleen-mcmahon.png
 ---
