@@ -12,7 +12,7 @@ socialImage: /images/jayson-phillips.png
 ## Quick show notes
 
 * Our Guest: [Jayson J. Phillips](https://jaysonjphillips.com/)
-* What he'd like for you to see: [His Live coding on Twitch](https://www.twitch.tv/jaysonjphillips)
+* What he'd like for you to see: [His Live coding on Twitch](https://twitch.tv/its_jay_phillz)
 * His JAMstack Jams: Getting back to simplicity on the web | Tools like [Netlify](https://netlify.com)
 * His Musical Jam: [Bootsy Collins - I'd Rather Be With You](https://www.youtube.com/watch?v=0tgYr03o3dE) | [Karen Harding - Say Something](https://www.youtube.com/watch?v=SiwgvQA8ksE)
 
