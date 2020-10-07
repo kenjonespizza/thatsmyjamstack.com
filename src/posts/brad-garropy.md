@@ -16,6 +16,10 @@ socialImage: /images/brad-garropy.png
 * His JAMstack Jams:  [Netlify](https://netlify.com) | [FaunaDB](https://fauna.com) | The "A" in the JAMstack
 * His Musical Jams: [Kolby Cooper](https://www.kolbycooper.com/) | [Artists on his Daily Texas Country site](https://dailytexascountry.com/)
 
+## This week's sponsor: Auth0
+
+This week, we've got [Auth0](https://auth0.com) as a sponsor. While their prowess at authentication is important, they also just release a free online course for [building a full-stack, Jamstack application with Next.js, Tailwind, Airtable, and Auth0](https://a0.to/fullstackjamstack).
+
 ## Transcript
 ### Bryan Robinson  0:01  
 Welcome back, Jamstackers! It's been a bit of time since last we talked, but I'm so glad to be back with you. You're listening to That's My Jamstack the podcast where we asked a timeless, ageless and incomparable question. What is your jam in the Jamstack? I'm your host, Bryan Robinson. And this week on the show, we have Brad Garropy. Brad is a lead front end developer at Adobe by day and a live code streamer by night.
