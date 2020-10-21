@@ -11,7 +11,7 @@ socialImage: /images/gareth-mccumskey.png
 
 ## Quick show notes
 
-* Our Guest: [Gareth McCumskey](https://twitter.com/ohadpr)
+* Our Guest: [Gareth McCumskey](https://twitter.com/garethmcc)
 * What he'd like for you to see: [Serverless' Components feature](https://www.serverless.com/components/)
 * His JAMstack Jams: JAMstack and Serverless help build things with low-code. Check to see if there's a solution out there for what you need to solve a problem.
 * His Musical Jams: [Jinjer - Pisces](https://www.youtube.com/watch?v=SQNtGoM3FVU)
