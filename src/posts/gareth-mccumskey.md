@@ -4,7 +4,7 @@ date: '2020-10-20'
 tags:
   - episode
   - season-2
-audioFile: https://pinecast.com/listen/de6b29ef-af5e-4adb-9e66-4b63368958a9.mp3
+audioFile: https://pinecast.com/listen/50e77b5c-feee-46d2-9a99-11a674a5ec38.mp3
 description: Today on the show, we chat with Gareth McCumskey, a solutions engineer at Serverless Inc.
 socialImage: /images/gareth-mccumskey.png
 ---
