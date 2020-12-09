@@ -46,6 +46,22 @@ main {
   overflow: hidden;
 }
 
+.display-on-light-theme {
+  display: block;
+}
+.display-on-dark-theme {
+  display: none;
+}
+
+@include dark-mode() {
+  .display-on-light-theme {
+    display: none;
+  }
+  .display-on-dark-theme {
+    display: block;
+  }
+}
+
 ::selection {
   color: var(--color-selection-text);
   background-color: var(--color-selection-bg);
